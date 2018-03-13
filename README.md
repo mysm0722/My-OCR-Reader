@@ -1,2 +1,10 @@
-# My-OCR-Reader
-Conver to Image to Text 
+# My OCR Reader
+Conver to Image to Text
+
+# NPM Package
+> npm install tesseract.js
+
+# Service Flow
+(1) Image To Text Convert
+(2) Text To Speech
+(3) Read Voice File
