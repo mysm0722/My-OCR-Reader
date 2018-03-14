@@ -1,6 +1,9 @@
 # My OCR Reader
 Conver to Image to Text
 
+# Gitbook 설명
+> https://mysm0722.gitbooks.io/my-project-book/content/ncp-my-ocr-reader-and-convert-voice.html
+
 # NPM Package
 > npm install tesseract.js
 
